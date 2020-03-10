@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+h2 {
+    color: gray;
+    margin-top: 100px;
+}
+
+hr {
+    color: gray;
+    width: 20%;
+}
+
+i {
+    color: orange;
+    border-radius: 50%;
+    border: solid 1px #F2F2F2;
+    padding: 0.5em 0.6em;
+    background-color: #F2F2F2;
+
+}
+
+p {
+    color: gray;
+    margin-top: 10px;
+}
+
+.col-sm-4 {
+    margin-top: 10px;
+}
